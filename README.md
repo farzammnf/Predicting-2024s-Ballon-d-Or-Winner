@@ -20,3 +20,12 @@ This year’s performances in additional key competitions, such as the UEFA Euro
 Furthermore, **Real Madrid's** dominance in the Champions League and the presence of candidates like **Bellingham** and **Vinícius Junior** highlight the importance of factoring in performances from such high-stakes tournaments. By incorporating these additional elements into our predictions, we can achieve a more realistic and comprehensive assessment of potential award winners.
 
 This analysis showcases the power of statistical modeling in predicting individual player success. Incorporating performances in key competitions like the **UEFA Euros**, **Champions League**, and other high-profile events will enrich our model and deliver more accurate predictions for awards such as the **Ballon d'Or**.
+***
+You can also find the notebook on [Kaggle](https://www.kaggle.com/code/farzammanafzadeh/predicting-2024s-ballon-d-or-winner)
+
+
+Link of datasets : [Ballon d'Or 2024 nominees league stats](https://www.kaggle.com/datasets/farzammanafzadeh/ballon-dor-2024-nominees-league-stats) - [Lionel Messi 2023 league stats](https://www.kaggle.com/datasets/farzammanafzadeh/lionel-messi-2023-league-stats)
+
+***
+
+For full data set, contact: [f.manafzadeh@gmail.com](mailto:f.manafzadeh@gmail.com)
