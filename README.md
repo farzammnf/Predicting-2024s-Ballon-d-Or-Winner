@@ -1,4 +1,4 @@
-# Predicting-2024s-Ballon-d-Or-Winner
+# Predicting 2024s Ballon d'Or Winner
 Predicting 2024s Ballon d'Or Winner with statistical approaches (PCA - Clustering - Similarity)
 
 Various aspects of football stats data are explored and key insights are captured by comparing and visualizing player statistics, providing a solid foundation for deeper analysis and understanding of player performance and football metrics.
